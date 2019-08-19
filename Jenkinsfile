@@ -25,7 +25,7 @@ node {
      [name: branch]
     ],
     userRemoteConfigs: [
-     [url: 'https://github.com/mosip/mosip', credentialsId: '4c9741a2-4c15-4aad-a13d-3a1206u05321']
+     [url: 'https://github.com/mosip/mosip', credentialsId: '5c295f4b-0a45-4a46-903f-bb92da7d74c1']
     ],
     extensions: [
      /*
